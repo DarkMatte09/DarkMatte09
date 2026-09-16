@@ -39,7 +39,7 @@ mindset:     understand how it works → understand how it breaks → understand
 
 <img src="https://img.shields.io/badge/Scapy-1a1a2e?style=for-the-badge&logo=python&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Nmap-1a1a2e?style=for-the-badge&logo=nmap&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Nmap-1a1a2e?style=for-the-badge&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Burp%20Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Kali%20Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Linux%20CLI-1a1a2e?style=for-the-badge&logo=linux&logoColor=A78BFA" />
