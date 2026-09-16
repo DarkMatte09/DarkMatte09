@@ -28,9 +28,7 @@ mindset:     understand how it works → understand how it breaks → understand
 **Languages & Scripting**
 
 <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/PowerShell-1a1a2e?style=for-the-badge&logo=powershell&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/C%20(working%20on)-1a1a2e?style=for-the-badge&logo=c&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=A78BFA" />
 
@@ -61,7 +59,6 @@ mindset:     understand how it works → understand how it breaks → understand
 | 🔎 **Network Enumeration** | Recon, packet crafting, traffic analysis |
 | 🌐 **Web App Security** | Web application testing, vulnerability research |
 | ⬆️ **Privilege Escalation** | Post-exploitation on Linux/Windows |
-| 🧠 **Low-Level Dev** | Memory management in C, exploit dev fundamentals |
 | ⚙️ **System Tooling** | Automation, hardening, performance tuning |
 
 </div>
@@ -76,7 +73,7 @@ mindset:     understand how it works → understand how it breaks → understand
 <img src="https://img.shields.io/badge/HTB%20Academy-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/HackerOne-1a1a2e?style=for-the-badge&logo=hackerone&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/Bugcrowd-1a1a2e?style=for-the-badge&logo=bugcrowd&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Intigriti-1a1a2e?style=for-the-badge&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Intigriti-1a1a2e?style=for-the-badge&logo=intigriti&logoColor=A78BFA" />
 
 </div>
 
@@ -86,8 +83,8 @@ mindset:     understand how it works → understand how it breaks → understand
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarkMatte09&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&icon_color=A78BFA&text_color=9ca3af&ring_color=7c3aed" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatte09&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&text_color=9ca3af&langs_count=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DarkMatte09&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&icon_color=A78BFA&text_color=9ca3af&ring_color=7c3aed" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DarkMatte09&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&text_color=9ca3af&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMatte09&hide_border=true&background=1a1a2e&stroke=1a1a2e&ring=7c3aed&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=9ca3af&dates=6b7280&currStreakNum=c4b5fd&sideNums=c4b5fd" />
 
