@@ -11,10 +11,10 @@
 ## `~$` about
 
 ```yaml
-role:        Studente / Offensive Security & Software Dev
+role:        Student / Offensive Security & Software Dev
 focus:       Network Analysis · Vulnerability Research · System Tooling
 environment: Kali Linux · WSL2 · Windows (system hardening & tuning)
-mindset:     capire come funziona → capire come si rompe → capire come si difende
+mindset:     understand how it works → understand how it breaks → understand how to defend it
 ```
 
 <br>
@@ -25,7 +25,7 @@ mindset:     capire come funziona → capire come si rompe → capire come si di
 <tr>
 <td valign="top" width="50%">
 
-**Linguaggi & Scripting**
+**Languages & Scripting**
 
 <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=A78BFA" />
@@ -56,13 +56,13 @@ mindset:     capire come funziona → capire come si rompe → capire come si di
 
 <div align="center">
 
-| Area | Descrizione |
+| Area | Description |
 |---|---|
-| 🔎 **Network Enumeration** | Ricognizione, packet crafting e analisi del traffico |
-| 🌐 **Web App Security** | Testing di applicazioni web, ricerca vulnerabilità |
-| ⬆️ **Privilege Escalation** | Post-exploitation su Linux/Windows |
-| 🧠 **Low-Level Dev** | Memory management in C, fondamenti per exploit dev |
-| ⚙️ **System Tooling** | Automazione, hardening e performance tuning |
+| 🔎 **Network Enumeration** | Recon, packet crafting, traffic analysis |
+| 🌐 **Web App Security** | Web application testing, vulnerability research |
+| ⬆️ **Privilege Escalation** | Post-exploitation on Linux/Windows |
+| 🧠 **Low-Level Dev** | Memory management in C, exploit dev fundamentals |
+| ⚙️ **System Tooling** | Automation, hardening, performance tuning |
 
 </div>
 
@@ -86,22 +86,10 @@ mindset:     capire come funziona → capire come si rompe → capire come si di
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&icon_color=A78BFA&text_color=9ca3af&ring_color=7c3aed" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&text_color=9ca3af&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarkMatte09&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&icon_color=A78BFA&text_color=9ca3af&ring_color=7c3aed" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatte09&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=c4b5fd&text_color=9ca3af&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true&background=1a1a2e&stroke=1a1a2e&ring=7c3aed&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=9ca3af&dates=6b7280&currStreakNum=c4b5fd&sideNums=c4b5fd" />
-
-</div>
-
-<br>
-
-## `~$` connect
-
-<div align="center">
-
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=protonmail&logoColor=A78BFA" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkMatte09&hide_border=true&background=1a1a2e&stroke=1a1a2e&ring=7c3aed&fire=A78BFA&currStreakLabel=c4b5fd&sideLabels=9ca3af&dates=6b7280&currStreakNum=c4b5fd&sideNums=c4b5fd" />
 
 </div>
 
